@@ -5,7 +5,7 @@
 
 <p align="center" >
   <samp>
-    My name is <em>Mou</em>. I am a 1st year Computer Engineering student, an attempt to be a frontend developer... 
+    My name is <em>Mou</em>. I am a 2nd year Computer Engineering student, an attempt to be a frontend developer... 
   <br/> Python and Cybersecurity enthusiast, and now thanks to my major a Java addict. 
     <br/> (<em>ex</em>)Fulltime student.
       <br/>
